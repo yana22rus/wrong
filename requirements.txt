@@ -1,0 +1,11 @@
+Package       Version  
+------------- ---------
+certifi       2020.12.5
+chardet       4.0.0    
+idna          2.10     
+pip           18.1     
+pkg-resources 0.0.0    
+pyenchant     3.2.0    
+requests      2.25.1   
+setuptools    40.8.0   
+urllib3       1.26.3   
